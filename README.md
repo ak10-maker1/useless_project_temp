@@ -2,47 +2,79 @@
 
 
 
-# [Project Name] 🎯
+FakePay 🎯
 
 
-## Basic Details
-### Team Name: [Name]
+ The Payment App That Pays You Nothing
+### Team Name: Pretty Useless
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Akash S Nair - SCET KODAKARA
+- Member 2: ADHITHYAN A J - SCET KODAKARA
+
 
 ### Project Description
-[2-3 lines about what your project does]
+FakePay is a completely fictional payment application that allows users to
+create, destroy, and manage imaginary money. It simulates transactions,
+notifications, economic statistics, achievements, and financial advice without
+involving any real money or payment system.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+People have a serious problem: they don't have enough fictional money.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+FakePay solves this completely unnecessary problem by creating an imaginary
+financial ecosystem.
+Users can generate fictional money, destroy it, receive fake transaction
+notifications, monitor fake GDP and inflation, unlock achievements, and receive
+completely useless financial advice.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- HTML5
+- CSS3
+- JavaScript
+- Flask
+- Flask REST endpoints
+- JSON
+- Random module
+- Python datetime module
+- VS Code
+- Web Browser
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- Laptop/PC
+- Keyboard
+- Mouse
+- Internet connection (for development/setup)
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+
+# Create a virtual environment
+python -m venv venv
+
+# Activate the virtual environment on Windows PowerShell
+venv\Scripts\activate
+
+# If PowerShell blocks activation, use:
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+
+# Install Flask
+pip install flask
+
 
 # Run
-[commands]
+
+python app.py
+
+Then open the application in a web browser:
+
+http://127.0.0.1:5000
+
 
 ### Project Documentation
 For Software:
